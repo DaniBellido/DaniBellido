@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel Bellido</h1>
-<h3 align="center">A passionate Game Developer from Spain and based in the UK</h3>
+<h3 align="center">A passionate Game Developer from Spain based in the UK</h3>
 
 - 🔭 I’m currently studying games programming at Kingston University. **Computer Games Programming BSc (Hons)**
 
