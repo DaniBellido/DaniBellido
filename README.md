@@ -66,6 +66,14 @@ This project is an assignment developed for the Games Programming module at King
 
 📄 Download the Documentation: [2D GAME DEVELOPMENT ASSIGNMENT.docx](https://github.com/DaniBellido/DaniBellido/files/8841342/2D.GAME.DEVELOPMENT.ASSIGNMENT.docx)
 
+<h3 align="center"> ⭐️ Console Application in C++ </h3>
+
+This project made in the module "Thinking like a programmer" is an application for the sale of pets. The application allows us to enter administrator mode or client mode and it registers new users by filling out a simple form with personal data and gives the user the possibility to add funds, check the balance, purchase pets and keep track of the pets purchased.
+The objective of this project was to demonstrate that the concepts of classes and inheritance are understood, as well as pointers and advanced concepts of the C++ language.
+The coursework was graded 80/100.
+
+💾 Repository: https://github.com/DaniBellido/Cpp-Application-Coursework
+
 
 <h3 align="center"> ⭐️ Unity Project </h3>
 
