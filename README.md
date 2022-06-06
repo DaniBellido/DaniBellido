@@ -119,7 +119,8 @@ In this work, a solid understanding of modeling with good topology, materials, a
 📄 Download the Documentation: [Daniel_Bellido_CGI_REPORT.docx](https://github.com/DaniBellido/DaniBellido/files/8841686/Daniel_Bellido_CGI_REPORT.docx)
 
 
-<h3 align="left"> 👇 Check all my repositories: </h3>
+
+<h1 align="center">  Check all my repositories 👇 </h1>
 
 - All of my projects are available at https://github.com/DaniBellido?tab=repositories
 
