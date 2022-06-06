@@ -70,7 +70,10 @@ This project is an assignment developed for the Games Programming module at King
 
 This project made in the module "Thinking like a programmer" is an application for the sale of pets. The application allows us to enter administrator mode or client mode and it registers new users by filling out a simple form with personal data and gives the user the possibility to add funds, check the balance, purchase pets and keep track of the pets purchased.
 The objective of this project was to demonstrate that the concepts of classes and inheritance are understood, as well as pointers and advanced concepts of the C++ language.
+
 The coursework was graded 80/100.
+
+![Screenshot_5](https://user-images.githubusercontent.com/103462533/172205390-6ead4ae0-c5d3-483c-a261-d081bb7bcf20.png)
 
 💾 Repository: https://github.com/DaniBellido/Cpp-Application-Coursework
 
