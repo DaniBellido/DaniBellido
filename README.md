@@ -7,12 +7,16 @@ I’m currently studying Games Programming at Kingston University. **Computer Ga
 
 As a second year student, I am looking for the opportunity to start in the industry working for a company (internship year) in order to expand my knowledge and be able to bring the best of myself to the business.
 
-I am a curious person and very passionate about learning and I am always looking forward to developing my skills. I am interested in Computer Graphics, Artificial Intelligence in videogames, modeling and animation, and I am an enthusiast of the C++ programming language.
+I am a curious and ambitious person, very passionate about learning and I am always looking forward to developing my skills. I am interested in Computer Graphics, Artificial Intelligence in videogames, modeling and animation, and I am an enthusiast of the C++ programming language.
+
+<h3 align="center"> My Goals 🦾</h3>
+
+My next goals are to further develop my skills as a Graphics Computer programmer in OpenGL and get started with other APIs like Vulkan and DirectX. Enhance my knowledge of CGI through modeling and animation with Maya and Blender. Continue creating projects with engines like Unity and Unreal5. As a personal challenge, I want to develop my own basic graphics engine.
 
 
 <h1 align="center">My Projects 👨‍💻 </h1>
 
-<h3 align="center"> Indoor Scene in OpenGL </h3>
+<h3 align="center"> ⭐️ Indoor Scene in OpenGL </h3>
 
 This project is a coursework done for the "3D Computer Programming and Artificial Intelligence" module at Kingston University London. The core implementations of this project are the different types of lighting such as ambient light, directional diffuse light, and fragmented animated spotlight with dimming. It also includes basic texture techniques. Graded 85/100
 
@@ -24,7 +28,7 @@ This project is a coursework done for the "3D Computer Programming and Artificia
 📄 Download the Documentation: [K1925456_Daniel_Bellido_Level_1_Coursework_Report.docx](https://github.com/DaniBellido/DaniBellido/files/8841131/K1925456_Daniel_Bellido_Level_1_Coursework_Report.docx)
 
 
-<h3 align="center"> Outdoor Scene in OpenGL </h3>
+<h3 align="center"> ⭐️ Outdoor Scene in OpenGL </h3>
 
 This project is an advanced OpenGL work done for the "3D Computer Programming and Artificial Intelligence" module at Kingston University London. In this project different features such as fog, normal map, rendering water, particle system and rigged character are implemented. This project was graded 83/100
 
@@ -36,7 +40,7 @@ This project is an advanced OpenGL work done for the "3D Computer Programming an
 
 📄 Download the Documentation: [K1925456_Daniel_Bellido_Level_2_Coursework_Report.docx](https://github.com/DaniBellido/DaniBellido/files/8841193/K1925456_Daniel_Bellido_Level_2_Coursework_Report.docx)
 
-<h3 align="center"> 3D Game in C++ </h3>
+<h3 align="center"> ⭐️ 3D Game in C++ </h3>
 
 Game developed in C++ with the graphics engine of the University. It is a stealth game where the player has to rescue a hostage and get out of the enemy base undetected. The goal of this project is to demonstrate a basic understanding of game design using 3D models, sound, and text on the screen, as well as showing a solid understanding of C++ programming.
 This project was graded 100/100.
@@ -50,7 +54,7 @@ This project was graded 100/100.
 📄 Download the documentation: [3D Game Development Assignment.docx](https://github.com/DaniBellido/DaniBellido/files/8841262/3D.Game.Development.Assignment.docx)
 
 
-<h3 align="center"> 2D Game in C++ </h3>
+<h3 align="center"> ⭐️ 2D Game in C++ </h3>
 
 This project is an assignment developed for the Games Programming module at Kingston University. It is a 2D video game developed in C++ with the GFC graphics engine from Kingston University. The graphics are made with the basic Paint tool. Graded 95/100.
 
@@ -63,7 +67,7 @@ This project is an assignment developed for the Games Programming module at King
 📄 Download the Documentation: [2D GAME DEVELOPMENT ASSIGNMENT.docx](https://github.com/DaniBellido/DaniBellido/files/8841342/2D.GAME.DEVELOPMENT.ASSIGNMENT.docx)
 
 
-<h3 align="center"> Unity Project </h3>
+<h3 align="center"> ⭐️ Unity Project </h3>
 
 The project was done in Unity for the "Professional Games Development Environments" module at Kingston University of London. This is a platform game where various behavior scripts are developed in C#. Main menu with Play, Options, and Quit buttons. Collectible coins. Can interact with the environment. Animated characters. Respawn. The player can jump and attack., enemy AI implemented through a state machine. Mobile platforms. Hazards. Checkpoints. Sound effects and background music. Particle effects. Water with splash effect. Restart at the end.  This project was graded 80/100. 
 
@@ -76,7 +80,7 @@ The project was done in Unity for the "Professional Games Development Environmen
 📄 Download the Documentation: [K1925456_Unity Coursework Report.docx](https://github.com/DaniBellido/DaniBellido/files/8841464/K1925456_Unity.Coursework.Report.docx)
 
 
-<h3 align="center"> Unreal4 Project </h3>
+<h3 align="center"> ⭐️ Unreal4 Project </h3>
 
 This group project was done in Ureal for the "Professional Game Development Environments" module at Kingston University London. It is a First Person Shooter where you have to eliminate waves of mutants. You have the option to play it cooperatively with another player. The project is entirely developed with Blueprints. My contribution to this project can be summed up in gameplay programming, animation programming, local multiplayer implementation, menu and options system implementation, and level design. This project was graded 72/100.
 
@@ -88,7 +92,7 @@ This group project was done in Ureal for the "Professional Game Development Envi
 
 📄 Download the Documentation: [UnrealReport.docx](https://github.com/DaniBellido/DaniBellido/files/8841558/UnrealReport.docx)
 
-<h3 align="center"> CGI Project in Autodesk Maya </h3>
+<h3 align="center"> ⭐️ CGI Project in Autodesk Maya </h3>
 
 ![SCREENSHOT_8h_right_colour_and_aspect_ratio_arnoldRenderView - copia](https://user-images.githubusercontent.com/103462533/172089316-bc141359-4407-48bd-9883-43c01bf8b988.png)
 
