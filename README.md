@@ -129,7 +129,7 @@ In this work, a solid understanding of modeling with good topology, materials, a
 
 📫 **d.bellido03@gmail.com**
 
-📄 Download my CV: 
+📄 Download my CV: [Daniel.Bellido_CV2022.docx](https://github.com/DaniBellido/Cpp-Application-Coursework/files/8846953/Daniel.Bellido_CV2022.docx)
 
 <h3 align="left">You can also connect with me on:</h3>
 <p align="left">
