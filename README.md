@@ -105,6 +105,9 @@ This group project was done in Ureal for the "Professional Game Development Envi
 
 <h3 align="center"> ⭐️ CGI Project in Autodesk Maya </h3>
 
+During my second year at the university, I received an introductory course in CGI where I have been able to develop new skills working with different tools such as Autodesk Maya, Photoshop, and Adobe Premiere. During the course, I have been able to create different scenes in which my final project stands out, which consisted of recreating a scene related to Star Wars.
+In this work, a solid understanding of modeling with good topology, materials, advanced textures, UV layouts, and lighting is demonstrated. All rendered with Arnold and providing quality final images. Grade 85/100. 
+
 ![SCREENSHOT_8h_right_colour_and_aspect_ratio_arnoldRenderView - copia](https://user-images.githubusercontent.com/103462533/172089316-bc141359-4407-48bd-9883-43c01bf8b988.png)
 
 ![SCREENSHOT_17min_right_colour_and_aspect_ratio_arnoldRenderView - copia](https://user-images.githubusercontent.com/103462533/172089479-d7725378-1f6c-4e8a-922e-ae2f1a70a4ce.png)
