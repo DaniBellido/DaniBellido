@@ -1,9 +1,21 @@
-<h1 align="center">Hi 👋, I'm Daniel Bellido</h1>
-<h3 align="center">A passionate Game Developer from Spain based in the UK</h3>
+<h1 align="center">Hi 👋, Welcome to Daniel's Portfolio</h1>
 
-- 🔭 I’m currently studying games programming at Kingston University. **Computer Games Programming BSc (Hons)**
+<h3 align="center">I am Daniel Bellido, a passionate Game Developer from Spain based in the UK</h3>
 
-- 👨‍💻 All of my projects are available at [[Not available yet]]([Not available yet])
+- 🔭 I’m currently studying Games Programming at Kingston University. **Computer Games Programming BSc (Hons)** 
+
+
+
+As a second year student, I am looking for the opportunity to start in the industry working for a company (internship year) in order to expand my knowledge and be able to bring the best of myself to the business.
+
+I am a curious person and very passionate about learning and I am always looking forward to developing my skills. I am interested in Computer Graphics, Artificial Intelligence in videogames, modeling and animation, and the C++ programming language.
+
+   ![computer-computer-graphics](https://user-images.githubusercontent.com/103462533/172075332-2633694c-45d4-4b9b-999a-cf98605ff527.gif)  ![computer-computer-graphics](https://user-images.githubusercontent.com/103462533/172075332-2633694c-45d4-4b9b-999a-cf98605ff527.gif)
+
+<h1 align="center">My Projects 👨‍💻 </h1>
+- All of my projects are available at https://github.com/DaniBellido?tab=repositories
+
+
 
 - 📫 How to reach me **d.bellido03@gmail.com**
 
