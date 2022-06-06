@@ -19,7 +19,9 @@ This project is a coursework done for the "3D Computer Programming and Artificia
 
 ![opengl1](https://user-images.githubusercontent.com/103462533/172077302-769fc962-60fa-49f2-a611-fb7afb863eab.png)
 
-Download the Documentation: [K1925456_Daniel_Bellido_Level_1_Coursework_Report.docx](https://github.com/DaniBellido/DaniBellido/files/8841131/K1925456_Daniel_Bellido_Level_1_Coursework_Report.docx)
+💾 Repository: https://github.com/DaniBellido/Indoor-Scene-in-OpenGL
+
+📄 Download the Documentation: [K1925456_Daniel_Bellido_Level_1_Coursework_Report.docx](https://github.com/DaniBellido/DaniBellido/files/8841131/K1925456_Daniel_Bellido_Level_1_Coursework_Report.docx)
 
 
 <h3 align="center"> Outdoor Scene in OpenGL </h3>
@@ -28,9 +30,11 @@ This project is an advanced OpenGL work done for the "3D Computer Programming an
 
 ![opengl2](https://user-images.githubusercontent.com/103462533/172078516-ee937537-a3dc-4541-92ce-2a022798321d.png)
 
-Video on YouTube: https://www.youtube.com/watch?v=Ovz_PgPR7UU
+📽 Video on YouTube: https://www.youtube.com/watch?v=Ovz_PgPR7UU
 
-Download the Documentation: [K1925456_Daniel_Bellido_Level_2_Coursework_Report.docx](https://github.com/DaniBellido/DaniBellido/files/8841193/K1925456_Daniel_Bellido_Level_2_Coursework_Report.docx)
+💾 Repository: https://github.com/DaniBellido/Outdoor-Scene-in-OpenGL
+
+📄 Download the Documentation: [K1925456_Daniel_Bellido_Level_2_Coursework_Report.docx](https://github.com/DaniBellido/DaniBellido/files/8841193/K1925456_Daniel_Bellido_Level_2_Coursework_Report.docx)
 
 <h3 align="center"> 3D Game in C++ </h3>
 
@@ -39,22 +43,58 @@ This project was graded 100/100.
 
 ![PORTFOLIO3](https://user-images.githubusercontent.com/103462533/172079282-bc1b680c-6aa1-4223-a40e-143e67b1e435.png)
 
-Video on YouTube: https://www.youtube.com/watch?v=sgGfp1VpDCM
+📽 Video on YouTube: https://www.youtube.com/watch?v=sgGfp1VpDCM
 
-Download the documentation: [3D Game Development Assignment.docx](https://github.com/DaniBellido/DaniBellido/files/8841262/3D.Game.Development.Assignment.docx)
+💾 Repository: https://github.com/DaniBellido/3D-Game-Cpp
+
+📄 Download the documentation: [3D Game Development Assignment.docx](https://github.com/DaniBellido/DaniBellido/files/8841262/3D.Game.Development.Assignment.docx)
 
 
 <h3 align="center"> 2D Game in C++ </h3>
 
-This project is an assignment developed for the Games Programming module at Kingston University. It is a 2D video game developed in C++ with the GFC graphics engine from Kingston University. The graphics are made with the basic Paint tool. The project graduated with a 95/100.
+This project is an assignment developed for the Games Programming module at Kingston University. It is a 2D video game developed in C++ with the GFC graphics engine from Kingston University. The graphics are made with the basic Paint tool. Graded 95/100.
 
 ![portfolio4](https://user-images.githubusercontent.com/103462533/172082147-2d0289b6-00d3-47b3-a497-302998e3206e.png)
 
-Video on YouTube: https://www.youtube.com/watch?v=CUnF8BWwVXM
+📽 Video on YouTube: https://www.youtube.com/watch?v=CUnF8BWwVXM
 
-Download the Documentation: [2D GAME DEVELOPMENT ASSIGNMENT.docx](https://github.com/DaniBellido/DaniBellido/files/8841342/2D.GAME.DEVELOPMENT.ASSIGNMENT.docx)
+💾 Repository: https://github.com/DaniBellido/Cowboy_2D_shooter
+
+📄 Download the Documentation: [2D GAME DEVELOPMENT ASSIGNMENT.docx](https://github.com/DaniBellido/DaniBellido/files/8841342/2D.GAME.DEVELOPMENT.ASSIGNMENT.docx)
 
 
+<h3 align="center"> Unity Project </h3>
+
+The project was done in Unity for the "Professional Games Development Environments" module at Kingston University of London. This is a platform game where various behavior scripts are developed in C#. Main menu with Play, Options, and Quit buttons. Collectible coins. Can interact with the environment. Animated characters. Respawn. The player can jump and attack., enemy AI implemented through a state machine. Mobile platforms. Hazards. Checkpoints. Sound effects and background music. Particle effects. Water with splash effect. Restart at the end.  This project was graded 80/100. 
+
+![portfolio5](https://user-images.githubusercontent.com/103462533/172084569-a6ab6e79-2711-429d-a1a9-925f5642e1ee.png)
+
+📽 Video on YouTube: https://www.youtube.com/watch?v=kDIvCy55d70
+
+💾 Repository: https://github.com/DaniBellido/Unity-Project
+
+📄 Download the Documentation: [K1925456_Unity Coursework Report.docx](https://github.com/DaniBellido/DaniBellido/files/8841464/K1925456_Unity.Coursework.Report.docx)
+
+
+<h3 align="center"> Unreal4 Project </h3>
+
+This group project was done in Ureal for the "Professional Game Development Environments" module at Kingston University London. It is a First Person Shooter where you have to eliminate waves of mutants. You have the option to play it cooperatively with another player. The project is entirely developed with Blueprints. My contribution to this project can be summed up in gameplay programming, animation programming, local multiplayer implementation, menu and options system implementation, and level design. This project was graded 72/100.
+
+![portfolio6](https://user-images.githubusercontent.com/103462533/172085845-ef1ded15-d91f-4764-8a29-84da5b081c97.png)
+
+📽 Video on YouTube: https://www.youtube.com/watch?v=k0BGKJMs44A
+
+💾 Repository: https://github.com/DaniBellido/Unreal-Project
+
+📄 Download the Documentation: [UnrealReport.docx](https://github.com/DaniBellido/DaniBellido/files/8841558/UnrealReport.docx)
+
+<h3 align="center"> CGI Project in Autodesk Maya </h3>
+
+![SCREENSHOT_8h_right_colour_and_aspect_ratio_arnoldRenderView - copia](https://user-images.githubusercontent.com/103462533/172089316-bc141359-4407-48bd-9883-43c01bf8b988.png)
+
+![SCREENSHOT_17min_right_colour_and_aspect_ratio_arnoldRenderView - copia](https://user-images.githubusercontent.com/103462533/172089479-d7725378-1f6c-4e8a-922e-ae2f1a70a4ce.png)
+
+📄 Download the Documentation: [Daniel_Bellido_CGI_REPORT.docx](https://github.com/DaniBellido/DaniBellido/files/8841686/Daniel_Bellido_CGI_REPORT.docx)
 
 
 
