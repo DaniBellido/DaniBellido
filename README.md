@@ -126,6 +126,8 @@ In this work, a solid understanding of modeling with good topology, materials, a
 
 - All of my projects are available at https://github.com/DaniBellido?tab=repositories
 
+![Screenshot_9](https://user-images.githubusercontent.com/103462533/176687043-9a7fe393-6803-44c0-932a-eef59cef3894.png)
+
 
 <h3 align="left"> ✉️ Contact me:  </h3>
 
