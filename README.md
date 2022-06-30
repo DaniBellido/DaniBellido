@@ -126,7 +126,7 @@ In this work, a solid understanding of modeling with good topology, materials, a
 
 - All of my projects are available at https://github.com/DaniBellido?tab=repositories
 
-![Screenshot_9](https://user-images.githubusercontent.com/103462533/176687043-9a7fe393-6803-44c0-932a-eef59cef3894.png)
+
 
 
 <h3 align="left"> ✉️ Contact me:  </h3>
@@ -134,6 +134,8 @@ In this work, a solid understanding of modeling with good topology, materials, a
 📫 **d.bellido03@gmail.com**
 
 📄 Download my CV: [Daniel.Bellido_CV2022.docx](https://github.com/DaniBellido/Cpp-Application-Coursework/files/8846953/Daniel.Bellido_CV2022.docx)
+
+📚 Grades: https://user-images.githubusercontent.com/103462533/176687043-9a7fe393-6803-44c0-932a-eef59cef3894.png
 
 <h3 align="left">You can also connect with me on:</h3>
 <p align="left">
