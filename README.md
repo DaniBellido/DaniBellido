@@ -107,6 +107,8 @@ This group project was done in Ureal for the "Professional Game Development Envi
 
 📄 Download the Documentation: [UnrealReport.docx](https://github.com/DaniBellido/DaniBellido/files/8841558/UnrealReport.docx)
 
+🛠 Trello Board: https://trello.com/b/Pzwa73zi/unreal-game-development
+
 <h3 align="center"> ⭐️ CGI Project in Autodesk Maya </h3>
 
 During my second year at the university, I received an introductory course in CGI where I have been able to develop new skills working with different tools such as Autodesk Maya, Photoshop, and Adobe Premiere. During the course, I have been able to create different scenes in which my final project stands out, which consisted of recreating a scene related to Star Wars.
